@@ -1,4 +1,14 @@
 ### Hi there 👋
+#### I'm Cyrus
+
+I really like Node, Laravel, React, and Vue
+
+📍: Santa Rosa, California
+
+💬: @cyru5cuenca on Twitter
+
+🗺: 🇺🇸 🇲🇽 🇦🇸 🇮🇷
+
 
 <!--
 **cyruscuenca/cyruscuenca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
