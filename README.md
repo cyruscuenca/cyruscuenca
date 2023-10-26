@@ -2,7 +2,7 @@
 
 📍: Santa Rosa, California
 
-💬: @cyru5cuenca on Twitter
+💬: @cyru5cuenca on X
 
 🗺: 🇺🇸 🇲🇽 🇦🇸 🇮🇷
 
