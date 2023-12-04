@@ -1,5 +1,3 @@
-### Hey there 👋
-
 📍: Santa Rosa, California
 
 💬: @cyru5cuenca on X
