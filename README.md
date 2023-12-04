@@ -2,7 +2,7 @@
 
 🔗 [StackOverflow](https://stackoverflow.com/users/9470327/cyrus) &nbsp; [Twitter](https://x.com/cyru5cuenca) &nbsp; [GitLab](https://gitlab.alpinelinux.org/cyruscuenca)
 
-🗺: 🇺🇸 🇲🇽 🇦🇸 🇮🇷
+🗺 🇺🇸 🇲🇽 🇦🇸 🇮🇷
 
 
 <!--
